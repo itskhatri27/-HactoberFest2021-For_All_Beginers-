@@ -1,0 +1,47 @@
+<!DOCTYPE.html>
+<html>
+<head>
+<title>hyperthing</title>
+</head>
+<body bgcolor="blue">
+<h1>THIS IS SEMESTER 4</h1>
+<p>this <strong>semester</strong> is very important for your computer engineering carrier as it have saveral important subjects you  must need to know.</p>
+<hr>
+<h1>heading 1</h1>
+<h2>heading 2</h2>
+<h3>heading3</h3>
+<h4>heading 4</H4>
+<h5>heading 5</h5>
+<h6>heading 6</h6>
+<h7>heading 7 is not a thing</h7>
+<br>
+<b>b tag is for boldness not for size increase</b>
+<br>
+<strong> strong tag is same as b</strong>
+<br>
+<i>italian text</i>
+<br>
+<em>italian text</em>
+<br>
+<mark>this is inside mark tag</mark>
+<br>
+<del>this sis deleted text</del>
+<br>
+<ins>this is inserted text</ins>
+<pre>
+<code>
+var<var>i</var>;
+printf("<var>i</var>")
+</code>
+</pre>
+<blackqote>book by its khatri</blackquote>
+<br>
+<abbr title="ITS KHATRI MUSIC">IKM</abbr>
+<address>MEF CAMPUS<br>
+         rajkot morbi road
+</address>
+<div>important for your</div>
+<div>for</div>
+<span>for the sake</span>
+</body>
+</html>
